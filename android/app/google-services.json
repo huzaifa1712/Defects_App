@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795617953783",
+    "project_id": "defects-app",
+    "storage_bucket": "defects-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795617953783:android:68d82831984b307fc9d0f2",
+        "android_client_info": {
+          "package_name": "com.example.defects_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795617953783-4nlem6jdgl4ejjem8d0ejl2p6st31s4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeXBy3VfdRKe4JcNadSWh-ltQP2aAssvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795617953783-4nlem6jdgl4ejjem8d0ejl2p6st31s4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
